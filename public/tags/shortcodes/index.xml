@@ -4,16 +4,21 @@
     <title>Shortcodes on Spanish Station</title>
     <link>http://localhost:1313/tags/shortcodes/</link>
     <description>Recent content in Shortcodes on Spanish Station</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>kenya@spanishstation.net (Kenya Ahuatzi)</managingEditor>
+    <webMaster>kenya@spanishstation.net (Kenya Ahuatzi)</webMaster>
+    <copyright>© 2024 Kenya Ahuatzi</copyright>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content</title>
       <link>http://localhost:1313/post/2020/jan/rich-content/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <author>kenya@spanishstation.net (Kenya Ahuatzi)</author>
       <guid>http://localhost:1313/post/2020/jan/rich-content/</guid>
       <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
+      
     </item>
+    
   </channel>
 </rss>
