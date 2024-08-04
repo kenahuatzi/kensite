@@ -14,10 +14,7 @@
       <title>Newsletter</title>
       <link>http://localhost:1313/tags/newsletter/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-=======
       <author>kenya@spanishstation.net (Kenya Ahuatzi)</author>
->>>>>>> 43a871f19dbff0e288a9aac9bb08688edaa4bda6
       <guid>http://localhost:1313/tags/newsletter/</guid>
       <description></description>
       
@@ -27,10 +24,7 @@
       <title>Blog</title>
       <link>http://localhost:1313/tags/blog/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-=======
       <author>kenya@spanishstation.net (Kenya Ahuatzi)</author>
->>>>>>> 43a871f19dbff0e288a9aac9bb08688edaa4bda6
       <guid>http://localhost:1313/tags/blog/</guid>
       <description></description>
       
@@ -40,10 +34,7 @@
       <title>Hugo</title>
       <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-=======
       <author>kenya@spanishstation.net (Kenya Ahuatzi)</author>
->>>>>>> 43a871f19dbff0e288a9aac9bb08688edaa4bda6
       <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
       
@@ -53,10 +44,7 @@
       <title>Markdown</title>
       <link>http://localhost:1313/tags/markdown/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-=======
       <author>kenya@spanishstation.net (Kenya Ahuatzi)</author>
->>>>>>> 43a871f19dbff0e288a9aac9bb08688edaa4bda6
       <guid>http://localhost:1313/tags/markdown/</guid>
       <description></description>
       
@@ -66,6 +54,7 @@
       <title>Syntax</title>
       <link>http://localhost:1313/tags/syntax/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <author>kenya@spanishstation.net (Kenya Ahuatzi)</author>
       <guid>http://localhost:1313/tags/syntax/</guid>
       <description></description>
       
@@ -75,10 +64,7 @@
       <title>Shortcodes</title>
       <link>http://localhost:1313/tags/shortcodes/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-=======
       <author>kenya@spanishstation.net (Kenya Ahuatzi)</author>
->>>>>>> 43a871f19dbff0e288a9aac9bb08688edaa4bda6
       <guid>http://localhost:1313/tags/shortcodes/</guid>
       <description></description>
       
@@ -88,10 +74,7 @@
       <title>Netlify</title>
       <link>http://localhost:1313/tags/netlify/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-=======
       <author>kenya@spanishstation.net (Kenya Ahuatzi)</author>
->>>>>>> 43a871f19dbff0e288a9aac9bb08688edaa4bda6
       <guid>http://localhost:1313/tags/netlify/</guid>
       <description></description>
       
@@ -101,10 +84,7 @@
       <title>Stoicism</title>
       <link>http://localhost:1313/tags/stoicism/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-=======
       <author>kenya@spanishstation.net (Kenya Ahuatzi)</author>
->>>>>>> 43a871f19dbff0e288a9aac9bb08688edaa4bda6
       <guid>http://localhost:1313/tags/stoicism/</guid>
       <description></description>
       

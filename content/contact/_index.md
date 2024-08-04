@@ -4,6 +4,18 @@ layout : "about"
 title: "Send us a message!"
 ---
 
+![](/img/contac_us.jpg)
+
+**email: kenya@spanishstation.net**
+
+**phone: 814-280-5640**
+
+- [Instagram](https://www.instagram.com/spanish.station)
+- [Facebook](https://twitter.com/binovarghese_)
+
+**Reach out to us with any questions or to schedule a FREE intro class. Please see Contact**
+
+
 **Website to register for form backend:** https://app.herotofu.com/signup
 
 Tutorial para configurar backend: https://herotofu.com/solutions/guides/hugo-contact-form

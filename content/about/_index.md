@@ -1,20 +1,17 @@
 ---
 type : "tags"
 layout : "about"
-title: "About me"
+title: "About us"
 ---
 
-I am Bino Kochumol Varghese.
+![](/img/hola.jpg)
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+At Spanish Station, we're dedicated to connecting people from around the globe and creating exciting new adventures through language. We believe that by breaking down barriers and embracing diverse cultures, we can build a better world for ourselves and future generations.
+In a world where connections are deeper, equality is celebrated, and dreams are limitless, Spanish Station is here to make those ideals a reality. Whether you're traveling the world, moving to a new country, learning a language to explore other cultures, advancing your business, or making new friends, we are committed to supporting you every step of the way. Join us on this exciting journey of discovery and fulfillment. No matter where you are, we’ll make magic happen.
 
 ##### Social Media
-- [Instagram](https://www.instagram.com/binovarghese_)
-- [Twitter](https://twitter.com/binovarghese_)
-- [Linkedin](https://linkedin.com/in/binovarghese-)
+- [Instagram](https://www.instagram.com/spanish.station)
+- [Facebook](https://twitter.com/binovarghese_)
+
  
 
