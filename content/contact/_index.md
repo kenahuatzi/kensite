@@ -1,7 +1,7 @@
 ---
 type : "tags"
 layout : "about"
-title: "Send us a message!"
+title: "Send us a message! :D"
 ---
 
 ![](/img/contac_us.jpg)

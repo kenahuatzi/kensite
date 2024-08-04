@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us" dir="ltr" class="scroll-smooth" data-default-appearance="light"
+<html lang="en-us" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
@@ -26,8 +26,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.85f006de1806b55b2d082d1122deedd8cec6fdc1f7c8a51be975a4496165d6c798f4a3de52545a6a87cc4bc09fc2d6f5201d44ea57acc1ac2b1c42a688c62bee.css"
-    integrity="sha512-hfAG3hgGtVstCC0RIt7t2M7G/cH3yKUb6XWkSWFl1seY9KPeUlRaaofMS8Cfwtb1IB1E6leswawrHEKmiMYr7g==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.e01c4e2c81a41eddfc65692d6a00dcf55175fd9100ed6e532de14c1d7559da1b7336b75112258639e8ec32bfa326344bdf3e12df2734b426855005f5296ce811.css"
+    integrity="sha512-4BxOLIGkHt38ZWktagDc9VF1/ZEA7W5TLeFMHXVZ2htzNrdREiWGOejsMr&#43;jJjRL3z4S3yc0tCaFUAX1KWzoEQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -155,7 +155,10 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px] bg-neutral dark:bg-neutral-800" style="z-index:100">
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
     <div class="flex flex-1 items-center justify-between">
@@ -393,6 +396,19 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
+
+  </div>
+</div>
 
   
   <div class="relative flex flex-col grow">
@@ -690,14 +706,6 @@
     
 
     
-    
-    <p class="text-xs text-neutral-500 dark:text-neutral-400">
-      
-      
-      Powered by <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>
-    </p>
     
 
   </div>
