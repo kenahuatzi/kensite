@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 enableRobotsTXT = true
 enableGitInfo = false
 Paginate = 6
-summaryLength  = "30"
+summaryLength  = 30
 
 [Params]
 selfHosted = true
@@ -41,11 +41,11 @@ previewCardImagePlacement = "bottom"
 [Params.Author]
   name = "Kenya Ahuatzi"
   #website = "https://www.binovarghese.com/"
-  #authorInfo = "She was born to be free, let her run wild in her own way and you will never lose her."
-  #authorPostImage = "/img/author-post-img.jpg"
+  authorInfo = "She was born to be free, let her run wild in her own way and you will never lose her."
+  authorPostImage = "/img/SSlogo.png"
 
 [Author]
-  name = "Kenya Ahuatzi"
+  name = ""
   #website = "https://binovarghese.com"
   email = "kenya@spanishstation.net"
   facebook = "username"
