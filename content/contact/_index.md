@@ -1,7 +1,7 @@
 ---
 type : "tags"
 layout : "about"
-title: "Send us a message! :D"
+title: "Send us a message!"
 ---
 
 ![](/img/contac_us.jpg)
@@ -15,10 +15,6 @@ title: "Send us a message! :D"
 
 **Reach out to us with any questions or to schedule a FREE intro class. Please see Contact**
 
-
-**Website to register for form backend:** https://app.herotofu.com/signup
-
-Tutorial para configurar backend: https://herotofu.com/solutions/guides/hugo-contact-form
 
 {{< rawhtml >}}
 <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>

@@ -3,7 +3,7 @@ title: "Welcome to Spanish Station!"
 # description: "This page was built using the Blowfish theme for Hugo."
 ---
 
-
+<!--
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
     {{< icon "triangle-exclamation" >}}
@@ -18,15 +18,16 @@ title: "Welcome to Spanish Station!"
     </button>
   </span>
 </div>
-
+-->
 Spanish Station is an online Spanish school that offers different modes like xxxx, yyyy, zzzz. Check out our **Courses** section for more info!
 
-check https://beefree.io for html drad and drop editor
+<!--check https://beefree.io for html drad and drop editor-->
 <!-- ```node
 npx blowfish-tools
 ```
 {{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}} -->
 
+<!--
 <div class="spacer_block block-1 mobile_hide" style="height:50px;line-height:50px;font-size:1px;">&#8202;</div>
 													<table class="image_block block-2" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr>
@@ -53,3 +54,4 @@ npx blowfish-tools
 															</td>
 														</tr>
 													</table>
+-->
