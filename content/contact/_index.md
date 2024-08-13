@@ -10,7 +10,7 @@ title: "Send us a message!"
 
 **phone: 814-280-5640**
 
-Follow us on [Instagram](https://www.instagram.com/spanish.station) and [Facebook](https://twitter.com/binovarghese_)!
+Follow us on [Instagram](https://www.instagram.com/spanish.station) and [Facebook]()!
 
 **Reach out to us with any questions or to schedule a FREE intro class. Please see Contact**
 
@@ -18,6 +18,9 @@ Follow us on [Instagram](https://www.instagram.com/spanish.station) and [Faceboo
 {{< rawhtml >}}
 <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
 <form action="https://public.herotofu.com/v1/fd86a300-3b01-11ef-91e4-b1221c7356b8" method="post" accept-charset="UTF-8">
+  <!-- Redirection URL -->
+  <input type="hidden" name="_redirect" value="www.spanishstation.net" />
+
   <div class="mb-3 pt-0">
     <input
       type="text"
