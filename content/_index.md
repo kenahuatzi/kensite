@@ -19,7 +19,7 @@ title: "Welcome to Spanish Station!"
   </span>
 </div>
 -->
-Spanish Station is an online Spanish school that offers different modes like xxxx, yyyy, zzzz. Check out our **Courses** section for more info!
+Spanish Station is an online Spanish school that offers different modes like xxxx, yyyy, zzzz. Check out our [**Courses**]({{< ref "/courses/_index.md" >}}) section for more info!
 
 <!--check https://beefree.io for html drad and drop editor-->
 <!-- ```node
