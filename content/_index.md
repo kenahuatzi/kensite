@@ -19,7 +19,10 @@ title: "Welcome to Spanish Station!"
   </span>
 </div>
 -->
-Spanish Station is an online Spanish school that offers different modes like xxxx, yyyy, zzzz. Check out our [**Courses**]({{< ref "/courses/_index.md" >}}) section for more info!
+Ready to boost your Spanish confidence? Our live, online classes are here to help you with everything from pronunciation to grammar. Enjoy fun, interactive lessons that fit into your schedule, and get real-time feedback from our friendly, expert tutors. With our 5-star instructors, you’ll be on the fast track to fluency in no time. Learn at your own pace, unlock new skills, and let’s make this journey enjoyable and rewarding together!
+Can’t wait to get started with you!
+
+Check out our [**Courses**]({{< ref "/courses/_index.md" >}}) section for more info!
 
 <!--check https://beefree.io for html drad and drop editor-->
 <!-- ```node

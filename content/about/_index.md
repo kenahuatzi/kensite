@@ -11,7 +11,7 @@ In a world where connections are deeper, equality is celebrated, and dreams are 
 
 ##### Social Media
 - [Instagram](https://www.instagram.com/spanish.station)
-- [Facebook](https://twitter.com/binovarghese_)
+- [Facebook](https://www.facebook.com/profile.php?id=100088050709420)
 
  
 

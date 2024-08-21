@@ -10,7 +10,7 @@ title: "Send us a message!"
 
 **phone: 814-280-5640**
 
-Follow us on [Instagram](https://www.instagram.com/spanish.station) and [Facebook]()!
+Follow us on [Instagram](https://www.instagram.com/spanish.station) and [Facebook](https://www.facebook.com/profile.php?id=100088050709420)!
 
 **Reach out to us with any questions or to schedule a FREE intro class. Please see Contact**
 
