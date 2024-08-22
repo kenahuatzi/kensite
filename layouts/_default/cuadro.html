@@ -1,0 +1,97 @@
+{{ define "main" }}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    /* General reset or base styles */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      color: #333;
+    }
+
+    .about-section {
+      padding: 40px 0;
+      background-color: #f4f4f4; /* Optional: Background color for section */
+    }
+
+    .container {
+      width: 80%;
+      margin: 0 auto;
+    }
+
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      margin: 0 -15px;
+    }
+
+    .col-md-8, .col-lg-4, .col-lg-8 {
+      padding: 0 15px;
+    }
+
+    .flex-lg-row-reverse {
+      flex-direction: row-reverse;
+    }
+
+    .align-items-center {
+      align-items: center;
+    }
+
+    .text-frame {
+      padding: 20px; /* Add padding inside the frame */
+      border: 2px solid #333333; /* Add a border to frame the text */
+      border-radius: 8px; /* Rounded corners */
+      background-color: #0a1550; /* Background color */
+      color: #fff; /* Text color to contrast with the background */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for added depth */
+    }
+
+    .img-fluid {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .img-rounded {
+      border-radius: 8px;
+    }
+
+    .img-80 {
+      width: 80%;
+    }
+
+    /* Optional: Adjustments for responsive design */
+    @media (max-width: 768px) {
+      .flex-lg-row-reverse {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="about-section">
+    <div class="container">
+      <div class="row flex-lg-row-reverse align-items-center">
+        <div class="col-md-8 col-lg-4">
+          {{ $image := resources.Get "/img/author-about.jpg" }}
+          <img src="{{ $image.RelPermalink }}" alt="Image of Bino Kochumol Varghese"
+            class="dd-block mx-lg-auto img-fluid img-rounded img-80">
+        </div>
+        <div class="col-md-8 col-lg-8">
+          <div class="text-frame">
+            {{ with .Content }}
+            {{ . }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+
+{{ end }}
