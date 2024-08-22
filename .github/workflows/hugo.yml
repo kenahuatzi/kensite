@@ -24,9 +24,9 @@ jobs:
       - name: Build site
         run: hugo --gc --minify
         
-      - name: Deploy
+          #- name: Deploy
         # Add your deployment steps here, for example, deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+        #uses: peaceiris/actions-gh-pages@v3
+        #with:
+        #  github_token: ${{ secrets.GITHUB_TOKEN }}
+        #  publish_dir: ./public
