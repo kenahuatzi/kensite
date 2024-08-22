@@ -96,3 +96,8 @@ previewCardImagePlacement = "bottom"
   priority = 0.5
   filename = "sitemap.xml"
 
+[layout]
+  layout_dir = "themes/blowfishSS/layouts"
+
+[shortcodes]
+  shortcode_dir = "themes/blowfishSS/layouts/shortcodes"
