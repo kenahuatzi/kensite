@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /
-Sitemap: http://localhost:34235/sitemap.xml
+Allow: /
+Sitemap: https://spanishstation.net/sitemap.xml
