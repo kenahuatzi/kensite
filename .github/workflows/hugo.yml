@@ -1,36 +1,31 @@
-name: Build and Deploy Hugo Site
+name: Deploy Hugo Site
 
 on:
   push:
     branches:
-      - main  # Set this to your default branch or the branch you want to deploy from
-  pull_request:
-    branches:
-      - main  # Set this to your default branch or the branch you want to deploy to
+      - main  # Trigger the workflow on push to the 'main' branch
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-        
-      - name: Set up Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'  # You can specify a particular version if needed
-        
-      - name: Build site
-        run: hugo --gc --minify
 
-      - name: Deploy
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git checkout -b gh-pages
-          git add -A
-          git commit -m "Deploy to GitHub Pages"
-          git push origin gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # Fetch the entire history for all branches
+
+    - name: Set up Hugo
+      uses: peaceiris/actions-hugo@v3
+      with:
+        hugo-version: '0.112.0'  # Specify the Hugo version you want to use
+
+    - name: Build Hugo site
+      run: hugo
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: './public'  # Path to the directory containing the generated site
+        publish_branch: gh-pages  # Branch to deploy the site to
