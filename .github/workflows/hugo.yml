@@ -1,27 +1,31 @@
-name: Deploy Hugo site to GitHub Pages
+name: Build and Deploy Hugo Site
 
 on:
   push:
     branches:
-      - main  # or your default branch
+      - main  # Set this to your default branch or the branch you want to deploy from
+  pull_request:
+    branches:
+      - main  # Set this to your default branch or the branch you want to deploy to
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-
+        
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.128.2' # specify the version you need
-
-      - name: Build
-        run: hugo
-
+          hugo-version: 'latest'  # You can specify a particular version if needed
+        
+      - name: Build site
+        run: hugo --gc --minify
+        
       - name: Deploy
+        # Add your deployment steps here, for example, deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
