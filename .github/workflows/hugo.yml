@@ -18,7 +18,7 @@ jobs:
     - name: Set up Hugo
       uses: peaceiris/actions-hugo@v3
       with:
-        hugo-version: '0.112.0'  # Specify the Hugo version you want to use
+        hugo-version: 'hugo v0.128.2'  # Specify the Hugo version you want to use
 
     - name: Build Hugo site
       run: hugo
