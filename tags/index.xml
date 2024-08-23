@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blowfish</title>
+    <title>Tags on Spanish Station</title>
     <link>https://spanishstation.net/tags/</link>
-    <description>Recent content in Tags on Blowfish</description>
+    <description>Recent content in Tags on Spanish Station</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <managingEditor>kenya@spanishstation.net</managingEditor>
     <webMaster>kenya@spanishstation.net</webMaster>
     <copyright>© 2024 </copyright>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://spanishstation.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Newsletter</title>
+      <title>newsletter</title>
       <link>https://spanishstation.net/tags/newsletter/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Blog</title>
+      <title>blog</title>
       <link>https://spanishstation.net/tags/blog/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Hugo</title>
+      <title>hugo</title>
       <link>https://spanishstation.net/tags/hugo/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
@@ -41,7 +41,7 @@
     </item>
     
     <item>
-      <title>Markdown</title>
+      <title>markdown</title>
       <link>https://spanishstation.net/tags/markdown/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
@@ -51,7 +51,7 @@
     </item>
     
     <item>
-      <title>Syntax</title>
+      <title>syntax</title>
       <link>https://spanishstation.net/tags/syntax/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
@@ -61,7 +61,7 @@
     </item>
     
     <item>
-      <title>Shortcodes</title>
+      <title>shortcodes</title>
       <link>https://spanishstation.net/tags/shortcodes/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
@@ -81,7 +81,7 @@
     </item>
     
     <item>
-      <title>Stoicism</title>
+      <title>stoicism</title>
       <link>https://spanishstation.net/tags/stoicism/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>

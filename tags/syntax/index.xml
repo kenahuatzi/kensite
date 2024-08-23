@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Syntax on Blowfish</title>
+    <title>syntax on Spanish Station</title>
     <link>https://spanishstation.net/tags/syntax/</link>
-    <description>Recent content in Syntax on Blowfish</description>
+    <description>Recent content in syntax on Spanish Station</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <managingEditor>kenya@spanishstation.net</managingEditor>
     <webMaster>kenya@spanishstation.net</webMaster>
     <copyright>© 2024 </copyright>
@@ -16,7 +16,8 @@
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
       <guid>https://spanishstation.net/post/2020/jan/syntax/</guid>
-      <description>Headings</description>
+      <description>Headings
+To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (h3), use three number signs (e.</description>
       
     </item>
     
