@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collections on Spanish Station</title>
-    <link>http://localhost:46715/collections/</link>
+    <link>http://localhost:1313/collections/</link>
     <description>Recent content in Collections on Spanish Station</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>kenya@spanishstation.net</managingEditor>
     <webMaster>kenya@spanishstation.net</webMaster>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:46715/collections/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/collections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Collections No.1</title>
-      <link>http://localhost:46715/collections/2023/collections/</link>
+      <link>http://localhost:1313/collections/2023/collections/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
-      <guid>http://localhost:46715/collections/2023/collections/</guid>
+      <guid>http://localhost:1313/collections/2023/collections/</guid>
       <description>Articles about learn in public, brag document and free stuffs.
 Learn In Public # If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.</description>
       
@@ -23,10 +23,10 @@ Learn In Public # If there’s a golden rule, it’s this one, so I put it first
     
     <item>
       <title>Collections No.2</title>
-      <link>http://localhost:46715/collections/2023/collections2/</link>
+      <link>http://localhost:1313/collections/2023/collections2/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
-      <guid>http://localhost:46715/collections/2023/collections2/</guid>
+      <guid>http://localhost:1313/collections/2023/collections2/</guid>
       <description>Articles about learn in public, brag document and free stuffs.
 Learn In Public # If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.</description>
       
@@ -34,10 +34,10 @@ Learn In Public # If there’s a golden rule, it’s this one, so I put it first
     
     <item>
       <title>Collections No.3</title>
-      <link>http://localhost:46715/collections/2023/collections3/</link>
+      <link>http://localhost:1313/collections/2023/collections3/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
-      <guid>http://localhost:46715/collections/2023/collections3/</guid>
+      <guid>http://localhost:1313/collections/2023/collections3/</guid>
       <description>Articles about learn in public, brag document and free stuffs.
 Learn In Public # If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.</description>
       
@@ -45,10 +45,10 @@ Learn In Public # If there’s a golden rule, it’s this one, so I put it first
     
     <item>
       <title>Collections No.4</title>
-      <link>http://localhost:46715/collections/2023/collections4/</link>
+      <link>http://localhost:1313/collections/2023/collections4/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
-      <guid>http://localhost:46715/collections/2023/collections4/</guid>
+      <guid>http://localhost:1313/collections/2023/collections4/</guid>
       <description>Articles about learn in public, brag document and free stuffs.
 Learn In Public # If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.</description>
       
@@ -56,10 +56,10 @@ Learn In Public # If there’s a golden rule, it’s this one, so I put it first
     
     <item>
       <title>Collections No.5</title>
-      <link>http://localhost:46715/collections/2023/collections5/</link>
+      <link>http://localhost:1313/collections/2023/collections5/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
-      <guid>http://localhost:46715/collections/2023/collections5/</guid>
+      <guid>http://localhost:1313/collections/2023/collections5/</guid>
       <description>Articles about learn in public, brag document and free stuffs.
 Learn In Public # If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.</description>
       
@@ -67,10 +67,10 @@ Learn In Public # If there’s a golden rule, it’s this one, so I put it first
     
     <item>
       <title>Collections No.6</title>
-      <link>http://localhost:46715/collections/2023/collections6/</link>
+      <link>http://localhost:1313/collections/2023/collections6/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <author>kenya@spanishstation.net</author>
-      <guid>http://localhost:46715/collections/2023/collections6/</guid>
+      <guid>http://localhost:1313/collections/2023/collections6/</guid>
       <description>Articles about learn in public, brag document and free stuffs.
 Learn In Public # If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.</description>
       

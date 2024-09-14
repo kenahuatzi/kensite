@@ -20,24 +20,24 @@ title: "Online Live Spanish Classes"
 
 Start your Spanish journey with our A1-A2 course! No prior knowledge is needed—just bring your enthusiasm. We’ll build a solid foundation together with a structured yet flexible approach.
 
-* **Price:** $48 for a 1-hour solo session each week for 5 weeks.
-* **Price:** $39 for a 1.5-hour group session each week for 6 weeks.
+* **Price:** $43 for a 1-hour solo session each week for 5 weeks.
+* **Price:** $35 per student for a 1.5-hour group session each week for 6 weeks.
 
 ![](/img/ilustracion_2.jpg)
 **Intermediate Spanish (B1-B2)**
 
 Advance to B1-B2 and dive into grammar, engaging conversations, and diverse activities. We’ll also focus on your specific goals and interests.
 
-* **Price:** $48 for a 1-hour solo session each week for 5 weeks.
-* **Price:** $39 for a 1.5-hour group session each week for 6 weeks.
+* **Price:** $43 for a 1-hour solo session each week for 5 weeks.
+* **Price:** $35 per student for a 1.5-hour group session each week for 6 weeks.
 
 ![](/img/GRADUATION.jpg)
 **Advanced Spanish (C1-C2)**
 
 For experienced Spanish speakers, our C1-C2 course is ideal for refining your speaking and listening skills, mastering advanced grammar, and perfecting your writing.
 
-* **Price:** $48 for a 1-hour solo session each week for 5 weeks.
-* **Price:** $39 for a 1.5-hour group session each week for 6 weeks.
+* **Price:** $43 for a 1-hour solo session each week for 5 weeks.
+* **Price:** $35 per student for a 1.5-hour group session each week for 6 weeks.
 
  Let’s make learning Spanish both fun and effective!
 
